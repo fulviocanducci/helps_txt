@@ -1,0 +1,11 @@
+$ git checkout -b feature
+# implement feature
+$ git commit -m "Feature part 1 implemented"
+# implement feature
+$ git commit -m "Feature part 2 implemented"
+# test, check everything is OK
+# Switch back to master:
+$ git checkout master
+$ get merge feature
+# Optionally, delete the feature branch
+$ git branch -d feature

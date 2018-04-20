@@ -1,0 +1,7 @@
+Azure AppService, Azure SQL Databases e Azure databases for Mysql ou Postgres
+https://www.youtube.com/watch?v=QIWaMmd5q0o&t=6798s (45:26 Começa a minah palestra);
+
+Server=tcp:sqlcanducci.database.windows.net,1433;Initial Catalog=SQLCanducci;
+Persist Security Info=False;User ID={your_username};
+Password={your_password};MultipleActiveResultSets=False;Encrypt=True;
+TrustServerCertificate=False;Connection Timeout=30;
